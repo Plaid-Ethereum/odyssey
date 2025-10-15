@@ -19,7 +19,7 @@
     "@faker-js/faker": "^8.4.1",
     "@mui/material": "^5.15.10",
     "@okta/odyssey-design-tokens": "workspace:*",
-    "@okta/odyssey-react-mui": "workspace:*",
+    "@okta/odyssey-react-mui": "0.14.1",
     "@storybook/theming": "^7.2.0"
   },
   "devDependencies": {
